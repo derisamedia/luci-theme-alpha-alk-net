@@ -14,7 +14,7 @@
 
 
 
-# luci-theme-alpha (BETA)
+# luci-theme-alpha-proto (Beta Testing)
 <div align="center">
 <img src="https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-proto/master/luasrc/alphaos.png">
 
@@ -25,7 +25,7 @@
 [![paypal][paypal-badge]][paypal]
 
 
-Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme refferences,
+Luci theme for Official Openwrt and Alpha OS build - Prototype - Made With Love - Derisamedia
 <summary>Preview Screenshoot</summary>
 <p>
   
@@ -49,3 +49,4 @@ alpha os is my idea which wants to develop the OpenWrt community in Indonesia, e
 donate
 buy me a padang rice or coffee
 saweria - https://saweria.co/derisamedia
+paypal - https://www.paypal.com/paypalme/derisamedia

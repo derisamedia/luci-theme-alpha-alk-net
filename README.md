@@ -48,5 +48,5 @@ alpha os is my idea which wants to develop the OpenWrt community in Indonesia, e
 
 donate
 buy me a padang rice or coffee
-saweria - https://saweria.co/derisamedia
-paypal - https://www.paypal.com/paypalme/derisamedia
+<summary>saweria - https://saweria.co/derisamedia</summary>
+<summary>paypal - https://www.paypal.com/paypalme/derisamedia</summary>

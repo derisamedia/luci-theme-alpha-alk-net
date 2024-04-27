@@ -16,7 +16,7 @@
 
 # Luci Theme Alpha X ALK-NET+ (Beta)
 <div align="center">
-<img src="https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-proto/master/luasrc/alphaos.png">
+<img src="https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-proto/master/alpha_os_X_ALK-NET+.png">
 
 [![issues][issues-badge]][issues]
 [![release][release-badge]][release]

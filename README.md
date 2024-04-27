@@ -14,7 +14,7 @@
 
 
 
-# luci-theme-alpha-proto (Beta Testing)
+# Luci Theme Alpha X ALK-NET+ (Beta)
 <div align="center">
 <img src="https://raw.githubusercontent.com/derisamedia/luci-theme-alpha-proto/master/luasrc/alphaos.png">
 
@@ -25,7 +25,7 @@
 [![paypal][paypal-badge]][paypal]
 
 
-Luci theme for Official Openwrt and Alpha OS build - Prototype - Made With Love - Derisamedia
+Luci theme for ALK-NET WRT Official OpenWrt ROMS - Made With Love - Colaboration With Derisamedia & ALK-NET-WRT (Teguh Surya Munggaran)
 <summary>Preview Screenshoot</summary>
 <p>
   

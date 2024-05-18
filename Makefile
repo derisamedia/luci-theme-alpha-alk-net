@@ -1,4 +1,4 @@
-# LuCI AlphaProto Theme
+# LuCI AlphaProto ALK-NET+ Theme
 # Copyright 2024 derisamedia <yuimizuno86@gmail.com>
 #
 # Licensed under the Apache License v2.0
@@ -6,12 +6,12 @@
 
 include $(TOPDIR)/rules.mk
 
-THEME_NAME:=alphaproto
-THEME_TITLE:=AlphaProto
+THEME_NAME:=alk
+THEME_TITLE:=alk
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
-PKG_VERSION:=0.0.2-beta
-PKG_RELEASE:=1
+PKG_VERSION:=0.0.5-beta
+PKG_RELEASE:=2
 
 include $(INCLUDE_DIR)/package.mk
 

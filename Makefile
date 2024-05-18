@@ -6,8 +6,8 @@
 
 include $(TOPDIR)/rules.mk
 
-THEME_NAME:=alk
-THEME_TITLE:=alk
+THEME_NAME:=alpha-alk-net
+THEME_TITLE:=alpha-alk-net
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
 PKG_VERSION:=0.0.5-beta
